@@ -4,10 +4,6 @@ Un'esperienza narrativa interattiva ispirata alla filastrocca ricorsiva italiana
 
 La storia comincia. La storia non finisce mai.
 
-## Demo
-
-👉 [Apri la storia]()
-
 ## Di cosa si tratta
 
 *C'era una volta un re, seduto sul sofà, che disse alla sua serva: "Raccontami una storia". E la storia cominciò così…*
@@ -28,15 +24,6 @@ Il progetto la trasforma in un'esperienza visiva e sonora: un libro animato che 
 ## Stack
 
 HTML · CSS · JavaScript · Web Audio API · SVG
-
-## Esecuzione locale
-```bash
-git clone 
-cd nome-repo
-# apri storia-ricorsiva.html nel browser
-```
-
-Nessun server necessario. Funziona direttamente dal file system.
 
 ## Ispirazione
 
