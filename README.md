@@ -38,4 +38,11 @@ cd nome-repo
 
 Nessun server necessario. Funziona direttamente dal file system.
 
-## File
+## Ispirazione
+
+La filastrocca esiste in varianti simili in molte culture e lingue.
+La struttura ricorsiva è la stessa ovunque: un re, una serva, un libro, e una storia che non ha mai intenzione di finire.
+
+---
+
+*Fatto con Web Audio API e tanta curiosità.*
